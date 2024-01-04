@@ -1,7 +1,6 @@
 ![Project Screenshot](./SS/1%20(17).png)
-# This is Window's Explorer that build with React18
 
-First Person Shooter Game
+## First Person Shooter Game
 
 ## Authors
 
